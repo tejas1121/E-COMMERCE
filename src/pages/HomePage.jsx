@@ -65,7 +65,7 @@ export function HomePage(){
                 </div>
 
                 <div className="product-name limit-text-to-2-lines">
-                    Intermediate Size Basketball
+                    Intermediate Size Basket-ball
                 </div>
 
                 <div className="product-rating-container">
